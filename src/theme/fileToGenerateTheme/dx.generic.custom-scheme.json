@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "key": "$base-accent",
+      "value": "rgba(14, 151, 212, 1)"
+    },
+    {
+      "key": "$base-warning",
+      "value": "rgba(254, 196, 51, 1)"
+    },
+    {
+      "key": "$base-danger",
+      "value": "rgba(233, 46, 56, 1)"
+    }
+  ],
+  "baseTheme": "fluent.blue.light",
+  "outputColorScheme": "crm-scheme",
+  "makeSwatch": false,
+  "version": "23.2.5",
+  "widgets": [],
+  "removeExternalResources": false
+}

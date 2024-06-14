@@ -1,0 +1,1 @@
+npx devextreme-cli build-theme --base-theme="fluent.blue.light" --input-file="dx.generic.custom-scheme.json" --output-color-scheme="CRM"
